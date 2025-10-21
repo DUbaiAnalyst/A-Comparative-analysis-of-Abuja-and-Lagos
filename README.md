@@ -1,29 +1,34 @@
-# Development of a Comprehensive Student Performance Record and Analysis Spreadsheet
+# A Comparative analysis of Abuja and Lagos
 ## Project Objective
-The objective of this spreadsheet project is to design and implement a comprehensive student performance record system that ensures accuracy, consistency, and comparability of academic data across terms. The project aims to integrate continuous assessment scores, examination results, and cumulative averages into a single, well-structured dataset that facilitates clear performance tracking and analysis. By combining academic, affective, and psychomotor evaluations, the project seeks to provide a holistic view of each student’s progress over the session, support data-driven decision-making by teachers, and enhance transparency in academic reporting.
+The objective of this project is to conduct a comparative analysis of the cost of living in Lagos and Abuja by examining the distribution of major household expense categories. The study aims to identify key differences in spending priorities and cost structures between the two cities, with particular focus on the disproportionate impact of rent on household budgets. By visualizing and comparing expense categories such as rent, childcare, transportation, and utilities, the analysis seeks to highlight the economic pressures faced by residents and provide data-driven insights that can inform policymakers, employers, and individuals in developing targeted interventions to improve affordability, balance household expenditures, and enhance overall purchasing power in both cities.
 
-## Dataset
-<a href="https://1drv.ms/x/c/b1379becc483faad/EW0Av5Ql7tRGn0P3K6CPrCsBFbSXzEMVMMnb2MVGey4R5g">Report Sheet</a>
+## Dataset Used
+- <a href="https://1drv.ms/x/c/b1379becc483faad/ERPWBAydmVlGj8l0u9FQQZUBX1y_qKl7vO7Y49nXTJiPvQ">Dataset</a>
+
+##Dashboard
+- <a href="<img width="6393" height="3227" alt="Abuja vs Lagos" src="https://github.com/user-attachments/assets/9179c6ed-4f18-4f5b-9928-e0981226df7f" />
+">Dataset</a>
 
 ## KPQs
-- What is the primary purpose of the student record spreadsheet?
-- What trends can be observed between the Continuous Assessment and Examination scores?
-- What insights can be drawn from the cumulative grading system?
+- What are the major living expense categories in Lagos and Abuja, and how are household budgets distributed across these categories?
+- How do childcare, transportation, and other non-rent expenses compare between Lagos and Abuja?
+- What does the dominance of rent expenditure imply about the cost-of-living structure and affordability in both cities?
+- How does the imbalance between essential and discretionary spending affect residents’ financial flexibility and quality of life?
+- How can data visualization tools (such as slicers) enhance understanding and comparison of expense patterns between the two cities?
 
 ## Project Insight
-- The primary purpose of the spreadsheet is to record, organize, and analyze student academic performance over a session. It captures data from continuous assessments, examinations, and cumulative term totals to ensure consistency and comparability across subjects and terms, while also integrating behavioral (affective and psychomotor) evaluations.
-- A strong level of consistency exists between the continuous assessment and examination results, indicating that the student maintained steady effort throughout the term and performed well under both continuous and summative evaluation conditions.
-- The cumulative grading system (A = 70–100, C = 50–69, D = 40–49, F = 0–39) provides a reliable framework for evaluating progress.
+- The major living expense categories in both cities include Rent, Childcare, Transportation, Utilities, Restaurants, Markets, Clothing and Shoes, and Sports & Leisure. Rent dominates household budgets in both cities, while other categories such as childcare and utilities follow.
+- Childcare is the second-largest expense in both cities, but its relative weight differs significantly: Lagos households allocate 28.5% of their spending to childcare compared to 14.7% in Abuja.
+- The dominance of rent reveals an unbalanced cost-of-living structure, particularly in Abuja. With over four-fifths of the household budget devoted to accommodation, residents face restricted capacity to meet other needs.
+- Because essential expenses such as rent and childcare dominate the budget, discretionary spending is extremely limited. This restricts households’ ability to engage in leisure, dining, or other quality-of-life activities'
+- Data visualization tools like slicers allow users to interactively compare expense categories across the two cities, isolating variables such as rent, childcare, or utilities for deeper insights. This approach transforms static data into a dynamic, user-driven analysis, making it easier for policymakers, analysts, and individuals to identify patterns, differences, and areas requiring intervention.
 
 ## Process
-- The first step involves gathering all relevant student academic records for the session.
-- A structured spreadsheet template is created with well-labeled columns and consistent data fields
-- Formulas are applied to calculate: Term Totals = (1st C.A + 2nd C.A + Exam Scores). Cumulative Grade and Average across all subjects. Class Position and Overall Percentage. Performance Rating based on the grading scale (A, C, D, F). These computations ensure comparability between datasets across terms and subjects.
-- The final report is reviewed for accuracy and presentation quality.
-- The spreadsheet and reports are then securely stored for reference, documentation, and future performance tracking.
-Feedback from teachers and administrators is collected to improve data structure, calculation formulas, Reporting layout for clarity and ease of interpretation.
-This ensures the system remains reliable and adaptable for subsequent sessions.
+-  Gather reliable, up-to-date data on major household expense categories in both Lagos and Abuja.
+-  Identify cost structures, patterns, and disparities in spending between the two cities.
+-  Ensure consistency and comparability between the two datasets.
+-  Translate numerical findings into meaningful economic insights.
+-  Present findings in a clear, interactive, and insightful format, Compiling the analysis into a professional and accessible report.
 
 ## Conclusion
-The Student Record Spreadsheet Project successfully provides a structured, accurate, and comprehensive system for recording and analyzing student performance across the academic session. By integrating continuous assessments, examination results, attendance records, and affective evaluations, the project ensures consistency, transparency, and comparability in academic reporting. The use of automated calculations and standardized grading enhances efficiency while reducing human error. Overall, this project not only supports effective academic monitoring and data-driven evaluation but also promotes holistic assessment of students, combining cognitive achievement with personal development indicators. It stands as a reliable model for maintaining clear, consistent, and insightful student performance records across school terms.
-
+This comparative analysis of Lagos and Abuja reveals a striking imbalance in household expenditure patterns, with rent emerging as the most dominant and burdensome expense in both cities—particularly in Abuja, where it consumes over four-fifths of total household spending. The findings highlight the significant financial pressure faced by residents, leaving limited resources for other essential and discretionary needs such as childcare, utilities, and leisure. Lagos, while also rent-heavy, shows a relatively more balanced cost structure. These disparities underscore the need for targeted housing policies, improved urban planning, and supportive welfare measures to reduce the rental burden and enhance overall affordability. Ultimately, this study provides valuable insights into urban cost structures that can guide policymakers, employers, and households toward more sustainable economic living conditions in Nigeria’s major cities.
