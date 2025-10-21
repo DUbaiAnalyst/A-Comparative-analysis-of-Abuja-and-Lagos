@@ -6,8 +6,8 @@ The objective of this project is to conduct a comparative analysis of the cost o
 - <a href="https://1drv.ms/x/c/b1379becc483faad/ERPWBAydmVlGj8l0u9FQQZUBX1y_qKl7vO7Y49nXTJiPvQ">Dataset</a>
 
 ##Dashboard
-- <a href="<img width="6393" height="3227" alt="Abuja vs Lagos" src="https://github.com/user-attachments/assets/9179c6ed-4f18-4f5b-9928-e0981226df7f" />
-">Dataset</a>
+- <img width="6393" height="3227" alt="Abuja vs Lagos" src="https://github.com/user-attachments/assets/54fa421a-6c69-4f1d-bfac-3f3a8ff245a0" />
+
 
 ## KPQs
 - What are the major living expense categories in Lagos and Abuja, and how are household budgets distributed across these categories?
